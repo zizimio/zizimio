@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**zizimio/zizimio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is Albina
+#### I am a Manual QA Engineer.
+![I am a Manual QA Engineer.](https://github.com/zizimio/zizimio/blob/main/WELCOME%20To%20my%20git.png)
 
-Here are some ideas to get you started:
+### About me
+***
+- 🎓 I'm studying testing.
+- 🤔 I really like it and want to learn new technologies.
+- 🎮 As a hobby, I I'm fond of drawing and psychology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+***
+🛠  Postman/ Swagger/ Jmeter/ HTML / CSS/ Figma/ Canva
+
+### Connect with Me
+***
+✉️ mailto:zizimio.a@gmail.com
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
