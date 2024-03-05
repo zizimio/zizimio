@@ -7,7 +7,7 @@
 ***
 - 🎓 I'm studying testing.
 - 🤔 I really like it and want to learn new technologies.
-- 🎮 As a hobby, I I'm fond of drawing and psychology.
+- 🎮 As a hobby, I'm fond of drawing and psychology.
 
 ### Tech Stack
 ***
